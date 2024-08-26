@@ -45,8 +45,3 @@ Train a model on the 'train' folder that performs well on the 'val' folder.
 2. Download and extract the dataset
 3. Install required dependencies
 4. Run the Jupyter notebook or Python scripts
-
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
