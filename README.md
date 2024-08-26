@@ -1,4 +1,4 @@
-# Hand Gesture Recognition - Deep Learning Project
+# Hand Gesture Recognition - Deep Learning Project.
 
 ## 🎯 Goal
 Recognize hand gestures using state-of-the-art neural networks to control smart TVs without a remote.
